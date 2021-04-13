@@ -1,0 +1,3 @@
+[submodule "ui-trial-cards"]
+	path = ui-trial-cards
+	url = https://github.com/Volodymyrquo/ui-trial-cards.git
